@@ -6,7 +6,7 @@
 
 Third challenge on Frontend Mentor - first Junior challenge.
 
-Estimated time taken:  
+Estimated time taken:  5 hrs totall
                        3:15 hrs in HTML & CSS
 
                        2 hrs in JS => Learning Syntax & fetching data from Json file and applying css in JS.
